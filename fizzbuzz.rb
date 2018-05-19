@@ -9,7 +9,3 @@ else if int % 3 == 0
 else
 end
 end
-end
-end
-
-end
